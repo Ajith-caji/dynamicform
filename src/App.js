@@ -1,24 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
+import SaveSegment from './Modal/Modal';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <>
+    <div className='bg-cyan-500 w-full h-16 border-b-2 flex items-center justify-between px-4'>
+
+
+  </div>
+    <div className='flex justify-center mt-5'>
+      <SaveSegment />
     </div>
+    </>
   );
 }
 
