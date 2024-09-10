@@ -144,6 +144,9 @@ export default function SaveSegment() {
             onChange={(e) => setSegmentName(e.target.value)}
             margin="normal"
           />
+          <div className='text-black font-medium'>
+            To save your segment, you need to add schemas to build query
+          </div>
    <div className="mt-4 p-4 border-2 border-blue-500">
             {addedSchemas.map((schema, index) => (
             <FormControl fullWidth>
