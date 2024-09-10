@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dynamicform/static/css/main.18ec9601.css",
+    "main.css": "/dynamicform/static/css/main.0b232b75.css",
     "main.js": "/dynamicform/static/js/main.f298a7ed.js",
     "static/js/453.0e3da1c1.chunk.js": "/dynamicform/static/js/453.0e3da1c1.chunk.js",
     "index.html": "/dynamicform/index.html",
-    "main.18ec9601.css.map": "/dynamicform/static/css/main.18ec9601.css.map",
+    "main.0b232b75.css.map": "/dynamicform/static/css/main.0b232b75.css.map",
     "main.f298a7ed.js.map": "/dynamicform/static/js/main.f298a7ed.js.map",
     "453.0e3da1c1.chunk.js.map": "/dynamicform/static/js/453.0e3da1c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18ec9601.css",
+    "static/css/main.0b232b75.css",
     "static/js/main.f298a7ed.js"
   ]
 }
